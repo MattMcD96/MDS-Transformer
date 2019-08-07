@@ -1,0 +1,9 @@
+﻿Client Name,#intro.site_name,Date,water_depth_cm,result type,parameter name,Final result
+Mikisew Cree First Nation,Athabasca River,2012-05-30,340,whole water column avg,water_chemistry.average.conductivity_uscm,207.03
+Mikisew Cree First Nation,Athabasca River,2012-05-30,340,whole water column avg,water_chemistry.average.do_mg_litre,11.97
+Mikisew Cree First Nation,Athabasca River,2012-05-30,340,whole water column avg,water_chemistry.average.do_percentage,124.57
+Mikisew Cree First Nation,Athabasca River,2012-05-30,340,whole water column avg,water_chemistry.average.ph,8.14
+Mikisew Cree First Nation,Athabasca River,2012-05-30,340,whole water column avg,water_chemistry.average.salinity_ppt,
+Mikisew Cree First Nation,Athabasca River,2012-05-30,340,whole water column avg,water_chemistry.average.turbidity,
+Mikisew Cree First Nation,Athabasca River,2012-05-30,340,whole water column avg,water_chemistry.average.water_temp,17.23
+Mikisew Cree First Nation,Athabasca River,2012-05-30,340,whole water column avg,water_chemistry.average.orp,13.6

@@ -1,0 +1,11 @@
+﻿Client Name,Taiga Sample ID,Client Sample ID,Sample Type,Sampling Location,Sample Collect Date,Sample Received Date,Test Group Name,Lab Section,Parameter Name,Result Flag,Reported Result,Units,CALC_MDL,Final Result,QAQC Qualifier,Sample Result Qualifier,Analysis Result Qualifier,Analysis Date,Prep Method,Test Method,REPORT STATUS,DL
+Mikisew Cree First Nation,181132-002,Pine Channel,Freshwater,"Fort Chipewyan, Alberta",2018-10-11,2018-10-11,TDS,Inorganics - Physicals,"Solids, Total Dissolved",,146,mg/L,10,146,0,,,2018-10-12,,SM2540:C,Final,10
+Mikisew Cree First Nation,181132-002,Pine Channel,Freshwater,"Fort Chipewyan, Alberta",2018-10-11,2018-10-11,TSS,Inorganics - Physicals,"Solids, Total Suspended",,10,mg/L,3,10,0,,,2018-10-12,,SM2540:D,Final,3
+Mikisew Cree First Nation,181132-002,Pine Channel,Freshwater,"Fort Chipewyan, Alberta",2018-10-11,2018-10-11,IC Anion,Major Ions,Sulphate,,8,mg/L,1,8,0,,,2018-10-12,,SM4110:B,Final,1
+Mikisew Cree First Nation,181132-002,Pine Channel,Freshwater,"Fort Chipewyan, Alberta",2018-10-11,2018-10-11,Turb,Inorganics - Physicals,Turbidity,,5.75,NTU,0.05,5.75,0,,,2018-10-11,,SM2130:B,Final,0.05
+Mikisew Cree First Nation,181132-002,Pine Channel,Freshwater,"Fort Chipewyan, Alberta",2018-10-11,2018-10-11,ICPMS3D,"Trace Metals, Total",Vanadium,,0.2,µg/L,0.1,0,0,,,2018-10-23,,EPA200.8,Final,0.1
+Mikisew Cree First Nation,181132-002,Pine Channel,Freshwater,"Fort Chipewyan, Alberta",2018-10-11,2018-10-11,ICPMS3D,"Trace Metals, Total",Zinc,<,5,µg/L,5,0,2,,,2018-10-23,,EPA200.8,Final,5
+Mikisew Cree First Nation,181132-003,Snowbirds,Freshwater,"Fort Chipewyan, Alberta",2018-10-11,2018-10-11,Alkal,Inorganics - Physicals,"Alkalinity, Total (as CaCO3)",,114,mg/L,0.4,114,0,,,2018-10-11,,SM2320:B,Final,0.4
+Mikisew Cree First Nation,181132-003,Snowbirds,Freshwater,"Fort Chipewyan, Alberta",2018-10-11,2018-10-11,ICPMS3D,"Trace Metals, Total",Aluminum,,423,µg/L,5,423,0,,,2018-10-23,,EPA200.8,Final,5
+Mikisew Cree First Nation,181132-003,Snowbirds,Freshwater,"Fort Chipewyan, Alberta",2018-10-11,2018-10-11,NH3-N,Inorganics - Nutrients,Ammonia as Nitrogen,<,0.005,mg/L,0.005,0,0,,,2018-10-12,,SM4500-NH3:G,Final,0.005
+Mikisew Cree First Nation,181132-003,Snowbirds,Freshwater,"Fort Chipewyan, Alberta",2018-10-11,2018-10-11,ICPMS3D,"Trace Metals, Total",Arsenic,,0.6,µg/L,0.2,0,0,,,2018-10-23,,EPA200.8,Final,0.2

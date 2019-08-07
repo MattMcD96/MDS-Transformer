@@ -1,0 +1,58 @@
+name,ActivityType,SampleCollectionEquipmentName,CharacteristicName,MethodSpeciation,ResultSampleFraction,ResultComment,Units
+"Conductivity, Specific (@25C)",Sample-Routine,Water Bottle,Specific conductance,,,Average of entire water column (3 measures),uS/cm
+water_chemistry.average.do_mg_litre,Field Msr/Obs-Portable Data Logger,Probe/Sensor,Dissolved oxygen (DO),,,Average of entire water column (3 measures),mg/l
+water_chemistry.average.do_percentage,Field Msr/Obs-Portable Data Logger,Probe/Sensor,Dissolved oxygen saturation,,,Average of entire water column (3 measures),%
+water_chemistry.average.orp,Field Msr/Obs-Portable Data Logger,Probe/Sensor,Oxidation reduction potential (ORP),,,Average of entire water column (3 measures),mV
+water_chemistry.average.ph,Field Msr/Obs-Portable Data Logger,Probe/Sensor,pH,,,Average of entire water column (3 measures),None
+water_chemistry.average.water_temp,Field Msr/Obs-Portable Data Logger,Probe/Sensor,"Temperature, water",,,Average of entire water column (3 measures),deg C
+water_chemistry.average.turbidity,Field Msr/Obs-Portable Data Logger,Probe/Sensor,Turbidity,,,Average of entire water column (3 measures),NTU
+water_chemistry.average.conductivity_uscm,Field Msr/Obs-Portable Data Logger,Probe/Sensor,Specific conductance,,,Average of entire water column (3 measures),uS/cm
+water_chemistry.average.salinity_ppt,Field Msr/Obs-Portable Data Logger,Probe/Sensor,Salinity,,,Average of entire water column (3 measures),ppt
+"Alkalinity, Total (as CaCO3)",Sample-Routine,Water Bottle,"Alkalinity, total",as CaCO3,Total,,
+Aluminum,Sample-Routine,Water Bottle,Aluminum,,Total,,
+Ammonia as Nitrogen,Sample-Routine,Water Bottle,Ammonia,as N,Total,,
+Arsenic,Sample-Routine,Water Bottle,Arsenic,,Total,,
+Barium,Sample-Routine,Water Bottle,Barium,,Total,,
+Beryllium,Sample-Routine,Water Bottle,Beryllium,,Total,,
+Cadmium,Sample-Routine,Water Bottle,Cadmium,,Total,,
+Calcium,Sample-Routine,Water Bottle,Calcium,,Total,,
+Chloride,Sample-Routine,Water Bottle,Chloride,,Total,,
+Chromium,Sample-Routine,Water Bottle,Chromium,,Total,,
+Chromium (III),Sample-Routine,Water Bottle,Chromium(III),,Total,,
+Chromium (VI),Sample-Routine,Water Bottle,Chromium(VI),,Total,,
+"Chromium, Dissolved",Sample-Routine,Water Bottle,Chromium,,Dissolved,,
+Copper,Sample-Routine,Water Bottle,Copper,,Total,,
+Fluoride,Sample-Routine,Water Bottle,Fluoride,,Total,,
+Hardness,Sample-Routine,Water Bottle,Total Hardness,as CaCO3,,,
+Iron,Sample-Routine,Water Bottle,Iron,,Total,,
+Lead,Sample-Routine,Water Bottle,Lead,,Total,,
+Lithium,Sample-Routine,Water Bottle,Lithium,,Total,,
+Magnesium,Sample-Routine,Water Bottle,Magnesium,,Total,,
+Manganese,Sample-Routine,Water Bottle,Manganese,,Total,,
+Mercury,Sample-Routine,Water Bottle,Mercury,,Total,,
+Methyl Mercury (Net CH3Hg in the sample as Hg (ng/L)),Sample-Routine,Water Bottle,Methylmercury(1+),,Total,,
+Molybdenum,Sample-Routine,Water Bottle,Molybdenum,,Total,,
+Nickel,Sample-Routine,Water Bottle,Nickel,,Total,,
+Nitrate as Nitrogen,Sample-Routine,Water Bottle,Nitrate,as N,Total,,
+Nitrite as Nitrogen,Sample-Routine,Water Bottle,Nitrite,as N,Total,,
+"Nitrogen, Dissolved",Sample-Routine,Water Bottle,Nitrogen,,Dissolved,,
+"Nitrogen, Total",Sample-Routine,Water Bottle,Nitrogen,,Total,,
+"Organic Carbon, Dissolved",Sample-Routine,Water Bottle,Organic carbon,,Dissolved,,
+"Organic Carbon, Total",Sample-Routine,Water Bottle,Organic carbon,,Total,,
+Ortho-Phosphate as Phosphorus,Sample-Routine,Water Bottle,Orthophosphate,as P,Total,,
+pH,Sample-Routine,Water Bottle,pH,,,,
+"Phosphorous, Dissolved",Sample-Routine,Water Bottle,Phosphorus,,Dissolved,,
+"Phosphorous, Total",Sample-Routine,Water Bottle,Phosphorus,,Total,,
+Potassium,Sample-Routine,Water Bottle,Potassium,,Total,,
+Selenium,Sample-Routine,Water Bottle,Selenium,,Total,,
+Silver,Sample-Routine,Water Bottle,Silver,,Total,,
+Sodium,Sample-Routine,Water Bottle,Sodium,,Total,,
+"Solids, Total Dissolved",Sample-Routine,Water Bottle,Total dissolved solids,,Dissolved,,
+"Solids, Total Suspended",Sample-Routine,Water Bottle,Total suspended solids,,Total,,
+Sulphate,Sample-Routine,Water Bottle,Sulfate,,Total,,
+Thallium,Sample-Routine,Water Bottle,Thallium,,Total,,
+Total Mercury,Sample-Routine,Water Bottle,Mercury,,Total,,
+Turbidity,Sample-Routine,Water Bottle,Turbidity,,,,
+Uranium,Sample-Routine,Water Bottle,Uranium,,Total,,
+Vanadium,Sample-Routine,Water Bottle,Vanadium,,Total,,
+Zinc,Sample-Routine,Water Bottle,Zinc,,Total,,

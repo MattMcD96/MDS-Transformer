@@ -2,4 +2,4 @@ python-csv==0.0.11
 datetime==4.3
 tkfilebrowser==2.3.1
 unidecode==1.1.1
-pyinstaller==3.5
+pyinstaller==3.6
